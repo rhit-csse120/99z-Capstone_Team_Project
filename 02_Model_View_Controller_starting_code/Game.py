@@ -1,4 +1,6 @@
 import pygame
+
+
 # Put each class in its own module, using the same name for both.
 # Then use statements like the following, but for YOUR classes in YOUR modules:
 #     from Fighter import Fighter

@@ -3,6 +3,7 @@ from Game import Game
 from Controller import Controller
 from View import View
 
+
 # TODO: Put your names here (entire team)
 
 
@@ -20,7 +21,7 @@ def main():
         clock.tick(frame_rate)
         controller.get_and_handle_events()
         game.run_one_cycle()
-        viewer.draw_everything()
+        viewer.draw_everything()  # Includes the pygame.display.update()
 
 
 main()
