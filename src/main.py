@@ -10,6 +10,7 @@ from View import View
 def main():
     pygame.init()
     screen = pygame.display.set_mode((640, 650))  # TODO: Choose your own size
+    pygame.display.set_caption("My Project")  # TODO: Choose your own title
     clock = pygame.time.Clock()
     game = Game(screen)  # the Model
     viewer = View(screen, game)  # the View
