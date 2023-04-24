@@ -8,6 +8,6 @@ Place the following documents into this folder:
 Use the same names as the above, please.
 
 The Capstone Team Project is described at:
-   https://docs.google.com/document/d/1X2LDLQ0rjVxsmLYUDGY8FbKKvsflarPKzUmtj3WUPIU/edit?usp=sharing
+   https://docs.google.com/document/d/1jX6kxqPN-F7TDjAV3lal8FDTt4QBpylrTMfp9U9h5lA/edit?usp=sharing
 
 Follow the link to see the requirements for each of the above documents.
