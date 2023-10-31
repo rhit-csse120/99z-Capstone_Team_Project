@@ -1,8 +1,7 @@
 TODO: Complete the following after you have COMPLETED your project.
 
-1. You are required to make a video for your project, as described in detail at:
-     https://docs.google.com/document/d/13O-pElAg8XwNEMFnpGXIvYZYg82xIaMHytRhTE3PHKs/edit?usp=sharing
-
+1. You are required to make a video for your project, as described in detail
+   per a link available in the Moodle section for Capstone Team Project.
    Be sure that your video meets the requirements per the above link!
    Be sure that your video is visible to your instructors!
 
@@ -40,7 +39,7 @@ TODO: Complete the following after you have COMPLETED your project.
 
      [PUT YOUR ANSWER HERE, using as many lines as you need.]
 
-8. List all media items (images, music, other graphics, etc)
+8. List all media items (images, music, other graphics, etc.)
    that are not your own, and their sources (e.g. URLs).
    [If you no longer know the source, indicate so.]
 
