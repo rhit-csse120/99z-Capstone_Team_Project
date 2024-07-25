@@ -23,17 +23,18 @@ def main():
     pygame.display.set_caption("My Game Name")  # TODO: Put your own game name
     screen = pygame.display.set_mode((640, 650))  # TODO: Choose your own size
     clock = pygame.time.Clock()
-    game = Game(screen)  # the Model
-    view = View(screen, game)  # the View
-    controller = Controller(game)  # the Controller
-
     frame_rate = 60  # TODO: Choose your own frame rate
+
+    game = Game(screen)  # the Model
+    viewer = View(screen, game)  # the View
+    controller = Controller(game)  # the Controller
 
     while True:
         clock.tick(frame_rate)
+
         controller.get_and_handle_events()
         game.run_one_cycle()
-        view.draw_everything()
+        viewer.draw_everything()  # Includes the pygame.display.update()
 
 
 main()
