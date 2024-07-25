@@ -20,8 +20,8 @@ from View import View
 
 def main():
     pygame.init()
-    pygame.display.set_caption("My Game Name")  # TODO: Put your own game name
     screen = pygame.display.set_mode((640, 650))  # TODO: Choose your own size
+    pygame.display.set_caption("My Game Name")  # TODO: Choose your own title
     clock = pygame.time.Clock()
     frame_rate = 60  # TODO: Choose your own frame rate
 
