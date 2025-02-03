@@ -8,6 +8,11 @@ Team members:
 """
 # TODO: Put the names of your entire team in the above doc-string.
 
+"""
+Academic Integrity: I got help on this module from:
+         PUT_HERE_THE_NAMES_OF_PEOPLE_WHO_HELPED_YOU_ON_THIS_MODULE_(IF_ANY).
+"""  # TODO: If you got help from anyone on this module, list their names here.
+
 import pygame
 import sys
 from Game import Game
@@ -27,7 +32,8 @@ class Controller:
 
         pressed_keys = pygame.key.get_pressed()
 
-        # TODO: Use code like the following, but for YOUR Game object.
+        # TODO: Implement this method.
+        #  Use code like the following, but for YOUR Game object.
         #     if pressed_keys[pygame.K_LEFT]:
         #         self.game.fighter.move_left()
         #     if self.key_was_pressed_on_this_cycle(pygame.K_SPACE, events):
